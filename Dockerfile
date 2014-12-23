@@ -2,7 +2,7 @@
 FROM nccts/baseimage:0.0.10
 
 # nccts/node
-# Version: 0.0.9
+# Version: 0.0.10
 MAINTAINER "Michael Bradley" <michael.bradley@nccts.org>
 # Noli, Mater Verbi, verba mea despicere; sed audi propitia et exaudi.
 
