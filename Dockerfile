@@ -7,7 +7,7 @@ MAINTAINER "Michael Bradley" <michael.bradley@nccts.org>
 # Noli, Mater Verbi, verba mea despicere; sed audi propitia et exaudi.
 
 # Cache buster
-ENV REFRESHED_AT [2014-12-21 Sun 04:29]
+ENV REFRESHED_AT [2014-12-25 Thu 19:48]
 
 # Set environment variables
 ENV HOME /root
