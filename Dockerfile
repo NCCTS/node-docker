@@ -2,12 +2,12 @@
 FROM nccts/baseimage:0.0.11
 
 # nccts/node
-# Version: 0.0.10
+# Version: 0.0.11
 MAINTAINER "Michael Bradley" <michael.bradley@nccts.org>
 # Noli, Mater Verbi, verba mea despicere; sed audi propitia et exaudi.
 
 # Cache buster
-ENV REFRESHED_AT [2014-12-25 Thu 19:48]
+ENV REFRESHED_AT [2014-01-23 Fri 14:43]
 
 # Set environment variables
 ENV HOME /root
